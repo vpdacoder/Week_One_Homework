@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  margin: auto;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+  color: Blue;
+}
+
+h3 {
+  color: Orange;
+}
+
+ul li {
+list-style-type: none;
+}
