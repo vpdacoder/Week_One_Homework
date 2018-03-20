@@ -22,4 +22,8 @@ What command do you use to use a different branch?
   10. git checkout brachName
 Why would you want to use a branch other than the default master?
   11. to work a specific feature or debug a part of a code
-  
+
+Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+  12. Merge could be used to combine the brach you were fixing with the master and pull request is used to see what changes were made by other to the master
+What command do you use to send all of the work that you've done locally to your remote repository?
+  13. git push origin master
