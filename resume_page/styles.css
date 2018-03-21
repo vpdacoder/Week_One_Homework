@@ -2,10 +2,14 @@ body {
   text-align: center;
   margin: auto;
   font-family: Tahoma, Geneva, sans-serif;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
 }
 
 h1 {
   color: Blue;
+  text-transform: uppercase;
+
 }
 
 h3 {
@@ -14,6 +18,11 @@ h3 {
 
 ul li {
 list-style-type: none;
+}
+
+img {
+  border: 1px solid black;
+  border-radius: 300px;
 }
 
 .column {
